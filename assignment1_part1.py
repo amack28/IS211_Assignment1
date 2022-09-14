@@ -31,4 +31,4 @@ except ListDivideException:
 print("Division exception occured")
 
 testListDivide()
-git add.
+git commit
